@@ -71,7 +71,7 @@ add_filter('cc_elementor_body_class_options', static function (array $options): 
 
 ## Versione
 
-Current: `1.6.1`
+Current: `1.6.2`
 
 ## License
 

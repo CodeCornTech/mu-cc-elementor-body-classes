@@ -1,4 +1,4 @@
-# v1.6.1 — Initial public release
+# v1.6.2 — Initial public release
 
 Prima release pubblica del MU plugin **Elementor Custom Body Classes**.
 
